@@ -1,6 +1,6 @@
 {
   "name": "sidekick-coffeelint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sidekick analyser that wraps 'coffeelint'",
   "main": "index.js",
   "scripts": {
