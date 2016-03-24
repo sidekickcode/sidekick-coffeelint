@@ -23,7 +23,7 @@
     "url": "https://github.com/sidekickcode/sidekick-david/issues"
   },
   "dependencies": {
-    "coffeelint": "^1.13.1",
-    "sidekick-analyser": "^1.1.0"
+    "@sidekick/analyser-common": "^1.0.2",
+    "coffeelint": "^1.13.1"
   }
 }
