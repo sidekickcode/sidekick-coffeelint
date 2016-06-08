@@ -5,7 +5,7 @@ const stripJsonComments = require("strip-json-comments");
 
 const lint = require("coffeelint").lint;
 
-const annotationDefaults = {analyserName: 'coffeelint'};
+const annotationDefaults = {analyserName: 'sidekick-coffeelint'};
 const configFileName = 'coffeelint.json';
 
 if(require.main === module) {
